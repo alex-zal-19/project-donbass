@@ -1,6 +1,6 @@
 const a = 'Hello Bidon';
 const b = 'Its Zelensky';
-const c = 'We need five million rockets';
+const c = 'We need five billion rockets';
 const d = 'to bomb Donetsk children';
 const e = 'Slava Ukrajini';
 const f = '';
